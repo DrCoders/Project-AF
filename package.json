@@ -1,0 +1,20 @@
+{
+  "name": "afproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angularjs-server": "0.0.31",
+    "body-parser": "^1.4.3",
+    "express": "^4.13.4",
+    "method-override": "^2.1.3",
+    "mongojs": "^2.4.0",
+    "mongoose": "^4.4.12",
+    "morgan": "^1.1.1"
+  }
+}
